@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @souryapu
 - 👀 My Name is Sourya Bagchi
-- 🌱 I’m From Kolkata 
+- 🌱 I’m From Kolkata in India
 - 💞️ I’m Student
-- 📫 I’m currently learning Presidency University
+- 📫 I’m Currently Learning in Presidency University
 - ⚡ This is My Github Account.
 
 <!---
